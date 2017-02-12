@@ -10,6 +10,7 @@
     //-------------------------------------------------------------------------
     private void __ParserTextureColor()
     {
+        // m_txtMain 为 Texture，请自行赋值
         if (null == m_txtMain)
         {
             return;
